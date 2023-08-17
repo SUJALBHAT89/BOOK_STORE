@@ -17,22 +17,22 @@ function FooterComponent(props) {
             <p className="copyright">© 2022 BT-BookStore | Follow us on</p>
             <ul className="footer-list">
                 <li className="footer-item">
-                    <a href="#" target="_blank" rel="noreferrer">
+                    <a href="https://www.facebook.com/sujal.bhat.503" target="_blank" rel="noreferrer">
                         <FaFacebookSquare />
                     </a>
                 </li>
                 <li className="footer-item">
-                    <a href="#" target="_blank" rel="noreferrer">
+                    <a href="https://twitter.com/sujalbhat" target="_blank" rel="noreferrer">
                         <FaTwitterSquare />
                     </a>
                 </li>
                 <li className="footer-item">
-                    <a href="#" target="_blank" rel="noreferrer">
+                    <a href="https://www.linkedin.com/in/sujal-bhat-556856218/" target="_blank" rel="noreferrer">
                         <FaLinkedin />
                     </a>
                 </li>
                 <li className="footer-item">
-                    <a href="#" target="_blank" rel="noreferrer">
+                    <a href="https://www.instagram.com/suzzal.__/" target="_blank" rel="noreferrer">
                         <FaInstagramSquare />
                     </a>
                 </li>
